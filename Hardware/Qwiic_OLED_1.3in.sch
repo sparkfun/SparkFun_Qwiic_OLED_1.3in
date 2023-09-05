@@ -23611,6 +23611,10 @@ We carry &lt;a href=”https://www.sparkfun.com/products/14204”&gt;200mm&lt;/a
 <wire x1="-14.71" y1="-31.9" x2="14.71" y2="-31.9" width="0.127" layer="52"/>
 <wire x1="6" y1="-10" x2="-6" y2="-10" width="0.127" layer="51" style="shortdash"/>
 <text x="0" y="-9.5" size="0.8128" layer="51" font="vector" rot="R180" align="center">Fold Line</text>
+<wire x1="10.575" y1="1.15" x2="11.15" y2="1.15" width="0.2" layer="21"/>
+<wire x1="11.15" y1="1.15" x2="11.15" y2="-3" width="0.2" layer="21"/>
+<wire x1="-10.575" y1="1.15" x2="-11.15" y2="1.15" width="0.2" layer="21"/>
+<wire x1="-11.15" y1="1.15" x2="-11.15" y2="-3" width="0.2" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -23657,7 +23661,7 @@ Monochrome</description>
 </symbols>
 <devicesets>
 <deviceset name="OLED1.3" prefix="OLED">
-<description>&lt;h3&gt;Qwiic OLED 1.3"&lt;/h3&gt;</description>
+<description>&lt;h3&gt;OLED 1.3" 128x64 SSD1306&lt;/h3&gt;</description>
 <gates>
 <gate name="G1" symbol="OLED1.3" x="0" y="0"/>
 </gates>
@@ -23696,7 +23700,7 @@ Monochrome</description>
 </connects>
 <technologies>
 <technology name="">
-<attribute name="PROD_ID" value="LCD-12019" constant="no"/>
+<attribute name="PROD_ID" value="LCD-19994" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -23830,7 +23834,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheets>
 <sheet>
 <plain>
-<text x="236.982" y="6.35" size="2.54" layer="94" font="vector">v01</text>
+<text x="236.982" y="6.35" size="2.54" layer="94" font="vector">v10</text>
 <text x="60.96" y="48.26" size="1.778" layer="97" font="vector">D1 and D2 are shorted
 for I2C mode.</text>
 <text x="187.96" y="96.52" size="1.778" layer="97" font="vector">In I2C mode, D/C sets the lower
