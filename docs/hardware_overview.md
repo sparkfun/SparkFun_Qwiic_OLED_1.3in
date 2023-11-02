@@ -16,7 +16,7 @@ The OLED screen has a pixel resolution of 128 x 64, a panel size of 304.5 x 23.0
 
 ## Power
 
-Ideally, power is supplied by the Qwiic connector, but the 3V3 and GND pins have been broken out to plated through holes on the side of the board (along with the Clock and Data Lines). Input voltage should not exceed <b>3.3V</v>, as there is no voltage regulation on this breakout. 
+Ideally, power is supplied by the Qwiic connector, but the 3V3 and GND pins have been broken out to plated through holes on the side of the board (along with the Clock and Data Lines). Input voltage should not exceed <b>3.3V</b>, as there is no voltage regulation on this breakout. 
 
 
 
