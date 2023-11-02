@@ -7,12 +7,10 @@ icon: material/cog
 
 The OLED screen has a pixel resolution of 128 x 64, a panel size of 304.5 x 23.0 x 1.4 (mm), and an active area of 29.42 x 14.7 (mm). There is more information in the [datasheet](assets/board_files/1.3inch-SH1106-OLED_Datasheet.pdf).
 
-<!--
 <figure markdown>
-[![OLED Screen](assets/img/22043-SparkFun-XBee-Explorer-USB-C-BuckConverter.jpg){ width="400" }](assets/img/22043-SparkFun-XBee-Explorer-USB-C-BuckConverter.jpg "Click to enlarge")
+[![OLED Screen](assets/img/23453-Qwiic-OLED-Screen.jpg){ width="400" }](assets/img/23453-Qwiic-OLED-Screen.jpg "Click to enlarge")
 <figcaption markdown>OLED Screen</figcaption>
 </figure>
--->
 
 ## Power
 
