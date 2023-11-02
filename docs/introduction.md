@@ -12,7 +12,7 @@ icon: material/book-open-page-variant
     ---
 
     <figure markdown>
-    ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/23453-_XBee_Explorer_USB-C-_01.jpg)
+    ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg)
     </figure></a>
     
 -    The SparkFun Qwiic OLED 1.3in (128 x 64 white pixels) is a Qwiic-enabled monochrome OLED that displays crisp white-on-black images and text, making it a perfect addition to your next project.
@@ -32,7 +32,7 @@ To follow along with this tutorial, you will need the following materials. You m
     <tr>
         <td>
             <a href="https://www.sparkfun.com/products/23453">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/2/1/9/1/0/23453-_XBee_Explorer_USB-C-_01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)"></center>
+                <center><img src="https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)"></center>
                 <h3 class="title">SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)</h3>
             </a>
             LCD-23453
