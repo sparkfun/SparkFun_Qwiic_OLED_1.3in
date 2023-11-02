@@ -38,23 +38,22 @@ To follow along with this tutorial, you will need the following materials. You m
             LCD-23453
         </td>
         <td>
-            <a href=" https://www.sparkfun.com/products/15096">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/5/2/15096-SparkFun_Serial_Basic_Breakout_-_CH340C_and_USB-C-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Serial Basic Breakout - CH340C and USB-C" height="140"></center>
-                <h3 class="title">SparkFun Serial Basic Breakout - CH340C and USB-C</h3>
+            <a href="https://www.sparkfun.com/products/15123">
+                <center><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/9/2/15123-SparkFun_RedBoard_Qwiic-01a.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun RedBoard Qwiic" height="140"></center>
+                <h3 class="title">SparkFun RedBoard Qwiic</h3>
             </a>
-            DEV-15096
+            DEV-15123
         </td>
         <td>
-            <a href="https://www.sparkfun.com/products/14743">
-                <center><img src="https://cdn.sparkfun.com/c/178-100/assets/parts/1/2/9/7/2/14743-USB_3.1_Cable_A_to_C_-_3_Foot-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="USB 3.1 Cable A to C - 3 Foot" >
+            <a href="https://www.sparkfun.com/products/14427">
+                <center><img src="https://cdn.sparkfun.com/assets/parts/1/2/4/5/3/14427-Qwiic_Cable_-_100mm-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Qwiic Cable - 100mm" >
                 </center>
-                <h3 class="title">USB 3.1 Cable A to C - 3 Foot</h3>
+                <h3 class="title">Qwiic Cable - 100mm</h3>
             </a>
-            CAB-14743
+            PRT-14427
         </td>
     </tr>
 </table>
-
 
 ## Suggested Reading
 
