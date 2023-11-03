@@ -5,7 +5,6 @@ hide:
 icon: fontawesome/solid/scroll
 ---
 
-
 --8<-- "./docs/introduction.md:5"
 
 # Hardware Overview
@@ -14,11 +13,11 @@ icon: fontawesome/solid/scroll
 # Hardware Assembly
 --8<-- "./docs/hardware_assembly.md:5"
 
-## Software Setup
---8<-- "./docs/software_setup.md:5"
+# Software Overview
+--8<-- "./docs/software_overview.md:5"
 
-# Examples
---8<-- "./docs/examples.md:5"
+# Troubleshooting Tips
+--8<-- "./docs/troubleshooting_tips.md:5"
 
 # Resources:
 --8<-- "./docs/resources.md"
