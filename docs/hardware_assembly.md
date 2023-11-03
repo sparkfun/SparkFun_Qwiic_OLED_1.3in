@@ -1,0 +1,1 @@
+SparkFun's Qwiic system makes components plug and play. Simply plug one end of your Qwiic cable into the Qwiic connector on your OLED screen and the other end of the Qwiic cable into the controller board (here we're using the RedBoard Qwiic). Now connect your controller board to the computer and voila. You're ready to rock. 
