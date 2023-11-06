@@ -74,14 +74,24 @@ To follow along with this tutorial, you will need the following materials. You m
 </div>
 
 
-
-
-
-
-
 ## Suggested Reading
 
-As a more professionally oriented product, we will skip over the more fundamental tutorials (i.e. [**Ohm's Law**](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law) and [**What is Electricity?**](https://learn.sparkfun.com/tutorials/what-is-electricity)). However, below are a few tutorials that may help users familiarize themselves with various aspects of the board.
+This board is part of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
+<center>
+<div align="center">
+    <div style="top:5px;left:5px;background-color:Gray;position:relative">
+        <div style="top:-5px;left:-5px;background-color:#ffffff;position:relative;border:1px solid black;">
+            <a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/assets/custom_pages/2/7/2/qwiic-logo.png" alt="Qwiic Connect System" title="Qwiic Connect System"></a>
+        </div>
+    </div>
+</div>
+</center>
+
+<center>
+    <iframe width="600" height="327" src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+Below are a few tutorials that may help users familiarize themselves with various aspects of the board.
 
 <div class="grid cards hide col-4" markdown>
 
@@ -134,19 +144,3 @@ As a more professionally oriented product, we will skip over the more fundamenta
     </a>
 </div>
 
-
-
-This board is part of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
-<center>
-<div align="center">
-    <div style="top:5px;left:5px;background-color:Gray;position:relative">
-        <div style="top:-5px;left:-5px;background-color:#ffffff;position:relative;border:1px solid black;">
-            <a href="https://www.sparkfun.com/qwiic"><img src="https://cdn.sparkfun.com/assets/custom_pages/2/7/2/qwiic-logo.png" alt="Qwiic Connect System" title="Qwiic Connect System"></a>
-        </div>
-    </div>
-</div>
-</center>
-
-<center>
-    <iframe width="600" height="327" src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
