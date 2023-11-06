@@ -16,8 +16,8 @@ icon: fontawesome/solid/scroll
 # Software Overview
 --8<-- "./docs/software_overview.md:5"
 
-# Troubleshooting Tips
---8<-- "./docs/troubleshooting_tips.md:5"
+# Arduino Example
+--8<-- "./docs/examples.md:5"
 
 # Resources:
 --8<-- "./docs/resources.md"

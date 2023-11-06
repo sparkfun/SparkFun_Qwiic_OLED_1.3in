@@ -28,74 +28,115 @@ icon: material/book-open-page-variant
 
 To follow along with this tutorial, you will need the following materials. You may not need everything though depending on what you have. Add it to your cart, read through the guide, and adjust the cart as necessary.
 
-<table style="border-style:none">
-    <tr>
-        <td>
-            <a href="https://www.sparkfun.com/products/23453">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)"></center>
-                <h3 class="title">SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)</h3>
-            </a>
-            LCD-23453
-        </td>
-        <td>
-            <a href="https://www.sparkfun.com/products/15123">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/1/3/4/9/2/15123-SparkFun_RedBoard_Qwiic-01a.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun RedBoard Qwiic" height="140"></center>
-                <h3 class="title">SparkFun RedBoard Qwiic</h3>
-            </a>
-            DEV-15123
-        </td>
-        <td>
-            <a href="https://www.sparkfun.com/products/14427">
-                <center><img src="https://cdn.sparkfun.com/assets/parts/1/2/4/5/3/14427-Qwiic_Cable_-_100mm-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Qwiic Cable - 100mm" >
-                </center>
-                <h3 class="title">Qwiic Cable - 100mm</h3>
-            </a>
-            PRT-14427
-        </td>
-    </tr>
-</table>
+<div class="grid cards hide col-4" markdown>
+
+-   <a href="https://www.sparkfun.com/products/23453">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/23453">
+      <b>SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)</b>
+      <br />
+      LCD-23453
+    </a>
+
+-   <a href="https://www.sparkfun.com/products/15123">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/1/3/4/9/2/15123-SparkFun_RedBoard_Qwiic-01a.jpg" style="width:140px; height:140px; object-fit:contain;" alt="SparkFun RedBoard Qwiic">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/15123">
+      <b>SparkFun RedBoard Qwiic</b>
+      <br />
+      DEV-15123
+    </a>
+
+-   <a href="https://www.sparkfun.com/products/14427">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/parts/1/2/4/5/3/14427-Qwiic_Cable_-_100mm-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="Qwiic Cable - 100mm">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://www.sparkfun.com/products/14427">
+      <b>Qwiic Cable - 100mm</b>
+      <br>
+      PRT-14427
+    </a>
+</div>
+
+
+
+
+
+
 
 ## Suggested Reading
 
 As a more professionally oriented product, we will skip over the more fundamental tutorials (i.e. [**Ohm's Law**](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law) and [**What is Electricity?**](https://learn.sparkfun.com/tutorials/what-is-electricity)). However, below are a few tutorials that may help users familiarize themselves with various aspects of the board.
 
+<div class="grid cards hide col-4" markdown>
+
+-   <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/learn_tutorials/5/Soldering_Action-01.jpg" style="width:264px; height:148px; object-fit:contain;" alt="How to Solder: Through Hole Soldering">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">
+      <b>How to Solder: Through Hole Soldering</b>
+    </a>
+
+-   <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/9/analog_vs_digital_thumb.png" style="width:264px; height:148px; object-fit:contain;" alt="Analog vs. Digital">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">
+      <b>Analog vs. Digital</b>
+    </a>
+
+-   <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/learn_tutorials/1/6/spiThumb_Updated2.png" style="width:264px; height:148px; object-fit:contain;" alt="Serial Peripheral Interface">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">
+      <b>Serial Peripheral Interface</b>
+    </a>
+
+-   <a href="https://learn.sparkfun.com/tutorials/i2c">
+      <figure markdown>
+        <img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg" style="width:264px; height:148px; object-fit:contain;" alt="I2C">
+      </figure>
+    </a>
+
+    ---
+
+    <a href="https://learn.sparkfun.com/tutorials/i2c">
+      <b>I2C</b>
+    </a>
+</div>
 
 
-<table style="border-style:none">
-    <tr>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/5/Soldering_Action-01.jpg" style="width:140px; height:140px; object-fit:contain;" alt="How to Solder: Through-Hole Soldering"></center>
-                <h3 class="title">How to Solder: Through-Hole Soldering</h3>
-            </a>
-        </td>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/9/analog_vs_digital_thumb.png" style="width:140px; height:140px; object-fit:contain;" alt="Analog vs. Digital" height="140"></center>
-                <h3 class="title">Analog vs. Digital</h3>
-            </a>
-        </td>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/1/6/spiThumb_Updated2.png" style="width:140px; height:140px; object-fit:contain;" alt="Serial Peripheral Interface (SPI)" >
-                </center>
-                <h3 class="title">Serial Peripheral Interface (SPI)</h3>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://learn.sparkfun.com/tutorials/i2c">
-                <center><img src="https://cdn.sparkfun.com/assets/learn_tutorials/8/2/I2C-Block-Diagram.jpg" style="width:140px; height:140px; object-fit:contain;" alt="I2C" >
-                </center>
-                <h3 class="title">I2C</h3>
-            </a>
-        </td>
-    </tr>
-</table>
 
-</table>
-
+This board is part of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
 <center>
 <div align="center">
     <div style="top:5px;left:5px;background-color:Gray;position:relative">
@@ -105,8 +146,6 @@ As a more professionally oriented product, we will skip over the more fundamenta
     </div>
 </div>
 </center>
-
-This board is part of the [Qwiic connect system](https://www.sparkfun.com/qwiic). We recommend familiarizing yourself with the **Logic Levels** and **I<sup>2</sup>C** tutorials.  Click on the banner above to learn more about [Qwiic products](https://www.sparkfun.com/qwiic).
 
 <center>
     <iframe width="600" height="327" src="https://www.youtube.com/embed/x0RDEHqFIF8" title="SparkFun's Qwiic Connect System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
