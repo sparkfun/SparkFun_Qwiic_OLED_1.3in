@@ -51,7 +51,7 @@ For users that need to solder directly to the board, the pins are also broken ou
 
 ### Address Jumper
 
-The SparkFun Qwiic OLED 1.3in board has a default I<sup>2</sup>C address of 0x3D, but by cutting the address jumper on the back of the board, you can select 0x3C. 
+The SparkFun Qwiic OLED 1.3in board has a default I<sup>2</sup>C address of 0x3D, but by soldering the address jumper on the back of the board, you can select 0x3C. 
 
 <figure markdown>
 [![Address Jumper](assets/img/23453-Qwiic-OLED-ADDRJumper.jpg){ width="400" }](assets/img/23453-Qwiic-OLED-ADDRJumper.jpg "Click to enlarge")
