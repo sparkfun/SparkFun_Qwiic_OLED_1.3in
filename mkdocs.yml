@@ -1,11 +1,11 @@
 # Documentation page information
 site_name: SparkFun Qwiic OLED 1.3in (128 x 64 white pixels) 
 site_description: A guide for getting started with the SparkFun Qwiic OLED 1.3in (128 x 64 white pixels) 
-site_url: https://sparkfun.github.io/Qwiic_OLED_1.3in
+site_url: https://sparkfun.github.io/SparkFun_Qwiic_OLED_1.3in
 site_author: SparkFun Electronics
 
-repo_url: https://github.com/sparkfun/Qwiic_OLED_1.3in
-repo_name: sparkfun/Qwiic_OLED_1.3in
+repo_url: https://github.com/sparkfun/SparkFun_Qwiic_OLED_1.3in
+repo_name: sparkfun/SparkFun_Qwiic_OLED_1.3in
 
 copyright:
   Copyright 2023 - <a href="https://www.sparkfun.com/" target="_blank" rel="noopener">SparkFun Electronics&#174;</a><br>
@@ -153,7 +153,7 @@ plugins:
       type: timeago
   # Add git committers at the bottom of the page
   - git-committers:
-      repository: sparkfun/Qwiic_OLED_1.3in
+      repository: sparkfun/SparkFun_Qwiic_OLED_1.3in
       branch: main
   # Add git authors at the bottom of the page
   - git-authors
