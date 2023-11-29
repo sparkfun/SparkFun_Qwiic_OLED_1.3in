@@ -13,8 +13,8 @@ icon: fontawesome/solid/scroll
 # Hardware Assembly
 --8<-- "./docs/hardware_assembly.md:5"
 
-# Software Overview
---8<-- "./docs/software_overview.md:5"
+# Software Setup and Programming
+--8<-- "./docs/software_setup_and_programming.md:5"
 
 # Arduino Example
 --8<-- "./docs/examples.md:5"

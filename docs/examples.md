@@ -1,3 +1,7 @@
+---
+icon: simple/arduino
+---
+
 The Arduino Library for the SparkFun OLED boards comes with a slew of examples to get you going.  Here we'll just run through a basic "the gang's all here" display. 
 
 !!! note
