@@ -5,7 +5,7 @@ icon: material/cog
 
 ## OLED 
 
-The OLED screen has a pixel resolution of 128 x 64, a panel size of 304.5 x 23.0 x 1.4 (mm), and an active area of 29.42 x 14.7 (mm). There is more information in the [datasheet](assets/board_files/1.3inch-SH1106-OLED_Datasheet.pdf).
+The OLED screen has a pixel resolution of 128 x 64, a panel size of 34.5 x 23.0 x 1.4 (mm), and an active area of 29.42 x 14.7 (mm). The driver chip is the SSD1306. More information can be found in the [datasheet](assets/board_files/1.3inch-SH1106-OLED_Datasheet.pdf).
 
 <figure markdown>
 [![OLED Screen](assets/img/23453-Qwiic-OLED-Screen.jpg){ width="400" }](assets/img/23453-Qwiic-OLED-Screen.jpg "Click to enlarge")
