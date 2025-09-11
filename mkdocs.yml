@@ -155,8 +155,6 @@ plugins:
   - git-committers:
       repository: sparkfun/SparkFun_Qwiic_OLED_1.3in
       branch: main
-  # Add git authors at the bottom of the page
-  - git-authors
   # Enables use of Git submodules and larger code base
   - monorepo
   # # For PDF rendering

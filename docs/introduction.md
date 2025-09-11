@@ -5,20 +5,12 @@ icon: material/book-open-page-variant
 
 <div class="grid cards desc" markdown>
 
--    <a href="https://www.sparkfun.com/products/23453">
-    **SparkFun Qwiic OLED 1.3in (128 x 64 white pixels)**<br>
-    **SKU:** LCD-23453
-
-    ---
-
-    <figure markdown>
-    ![Product Thumbnail](https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg)
-    </figure></a>
-    
--    The SparkFun Qwiic OLED 1.3in (128 x 64 white pixels) is a Qwiic-enabled monochrome OLED that displays crisp white-on-black images and text, making it a perfect addition to your next project.
+- <figure markdown>
+    [![SparkFun Qwiic OLED 1.3in (128 x 64 white pixels) (LCD-23453)](https://cdn.sparkfun.com/assets/parts/2/3/7/6/0/23453-Qwiic-OLED-Feature-WithDisplay.jpg){ width=90% }](https://www.sparkfun.com/sparkfun-qwiic-oled-1-3in-128x64.html)
+		</figure>
 
     <center>
-    [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/23453){ .md-button .md-button--primary }
+    [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/sparkfun-qwiic-oled-1-3in-128x64.html){ .md-button .md-button--primary }
     </center>
 
 </div>
